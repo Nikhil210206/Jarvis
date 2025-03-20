@@ -198,12 +198,6 @@
   </tr>
 </table>
 
-### ✨ Our Valuable Contributors 
-
-<a href="https://github.com/Avdhesh-Varshney/Jarvis/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Avdhesh-Varshney/Jarvis&max=1000" />
-</a>
-
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
 # Tip from us 😇 
