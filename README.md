@@ -4,17 +4,11 @@
 
 <div align="center">
   <p>
-    <a href="https://www.buymeacoffee.com/avdheshvarshney">
-      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
     </a>
-    <a href="https://discord.gg/tSqtvHUJzE">
-      <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
     </a><br /><br />
     <img src="https://img.shields.io/github/repo-size/Avdhesh-Varshney/Jarvis" />
-    <img src="https://img.shields.io/github/contributors/Avdhesh-Varshney/Jarvis" />
     <img src="https://img.shields.io/github/languages/count/Avdhesh-Varshney/Jarvis" />
     <img src="https://img.shields.io/github/stars/Avdhesh-Varshney/Jarvis" />
-    <img src="https://img.shields.io/github/forks/Avdhesh-Varshney/Jarvis" />
     <img src="https://img.shields.io/github/last-commit/Avdhesh-Varshney/Jarvis" />
     <img src="https://img.shields.io/github/license/Avdhesh-Varshney/Jarvis" />
     <br />
@@ -118,85 +112,6 @@
 ---
 
 <div align="center">
-
-### ❄️ Open Source Programs 
-
-<table>
-  <tr align="center">
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/95ba44b4-016c-47ce-9285-2571562fabff" height=100px />
-        <p><sub><b>SSOC</b></sub></p>
-        <a href="https://hack2skill.com/hack/ssoc"><b>2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/332f72de-90eb-4749-a013-6bbe1897d440" height=100px />
-        <p><sub><b>VSOC</b></sub></p>
-        <a href="https://www.vsoc.tech/"><b>2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/c464f695-d0b9-4fc1-9c7c-add9e19d9167" height=100px />
-        <p><sub><b>GSSoC</b></sub></p>
-        <a href="https://gssoc.girlscript.tech/"><b>Ext 2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/ff164f5c-d294-4af0-a77b-c19e78685c47" height=100px />
-        <p><sub><b>Hacktoberfest</b></sub></p>
-        <a href="https://hacktoberfest.com/"><b>2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://avatars.githubusercontent.com/u/111989363?v=4" height=100px />
-        <p><sub><b>IEEE Open-Source Week</b></sub></p>
-        <a href="https://github.com/IEEE-IGDTUW"><b>2024</b></a>
-      </div>
-    </td>
-  </tr>
-  <tr align="center">
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/4d9fea63-34df-48ac-a33a-f5a8c333b191" height=100px />
-        <p><sub><b>KWOC</b></sub></p>
-        <a href="https://kwoc.kossiitkgp.org/"><b>2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/eea72bf3-eee1-481a-9f9e-2f9d9a4eb2e4" height=100px />
-        <p><sub><b>24 Pull Requests</b></sub></p>
-        <a href="https://24pullrequests.com/"><b>2024</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/b2399ecc-a3d7-4ad5-acbb-87fb46477cae" height=100px />
-        <p><sub><b>IWOC</b></sub></p>
-        <a href="https://iwoc3.live/"><b>2025</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/f2832e3c-f8a4-4b99-b4a1-934a9ee88c5a" height=100px />
-        <p><sub><b>SWOC</b></sub></p>
-        <a href="https://www.socialwinterofcode.com/"><b>2025</b></a>
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/user-attachments/assets/728db452-1ce6-42d7-9dd4-4d4ba8dad90c" height=100px />
-        <p><sub><b>DWOC</b></sub></p>
-        <a href="https://dwoc.io/"><b>2025</b></a>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ![Line](https://github.com/Avdhesh-Varshney/WebMasterLog/assets/114330097/4b78510f-a941-45f8-a9d5-80ed0705e847)
 
