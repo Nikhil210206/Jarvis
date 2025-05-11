@@ -32,5 +32,4 @@ if __name__ == "__main__":
         if login_user(conn, st.session_state['user'][0], st.session_state['password']):
             st.session_state['verified'] = True
             server().setLocalStorageVal("verified", True)
-
     application(st.session_state['verified']).run()
